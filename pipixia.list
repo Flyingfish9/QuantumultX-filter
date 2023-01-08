@@ -7,4 +7,4 @@
 # USER-AGENT: 1
 # TOTAL: 10
 HOST-SUFFIX,pipix.com,ByteDance
-USER-AGENT,com.pipix.,pipix
+USER-AGENT,com.pipix.ByteDance,pipix
