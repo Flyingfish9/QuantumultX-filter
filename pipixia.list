@@ -7,5 +7,5 @@
 # USER-AGENT: 1
 # TOTAL: 3
 HOST-SUFFIX,2333333333333.com,ByteDance
-HOST-SUFFIX,pipixia.com,ByteDance
+HOST-SUFFIX,api.pipix.com,ByteDance
 IP-CIDR,114.246.10.65/32,ByteDance
