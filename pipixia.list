@@ -6,5 +6,5 @@
 # IP-CIDR: 0
 # USER-AGENT: 1
 # TOTAL: 10
-HOST-SUFFIX,api.pipix.com,ByteDance
+HOST-SUFFIX,pipix.com,ByteDance
 USER-AGENT,*com.pipix,ByteDance*,pipix
