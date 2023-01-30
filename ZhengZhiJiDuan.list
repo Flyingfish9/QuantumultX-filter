@@ -1,0 +1,13 @@
+HOST,epochtimes.com,voachinese.com,soundofhope.org,bbc.com,apnews.com,nytimes.com
+#大纪元
+HOST-SUFFIX,epochtimes.com
+#美国之音
+HOST-SUFFIX,voachinese.com
+#希望之声
+HOST-SUFFIX,soundofhope.org
+#英广新闻（BBC）
+HOST-SUFFIX,bbc.com
+#美联社
+HOST-SUFFIX,apnews.com
+#纽约时报
+HOST-SUFFIX,nytimes.com
