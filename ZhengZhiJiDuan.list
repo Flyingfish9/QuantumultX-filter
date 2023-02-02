@@ -14,3 +14,5 @@ HOST-SUFFIX,nytimes.com,ZhengZhiJiDuan
 HOST-SUFFIX,botanwang.com,ZhengZhiJiDuan
 #自由亚洲电台
 HOST-SUFFIX,rfa.org,ZhengZhiJiDuan
+#法国国际广播电台
+HOST-SUFFIX,rfi.fr,ZhengZhiJiDuan
