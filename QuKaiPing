@@ -1,1 +1,2 @@
 HOST-SUFFIX,app-measurement.com,QuKaiPing
+^https?:\/\/api\.live\.measurement\.com\/xlive\/app-room\/v1\/index\/getInfoByRoom url script-response-body
