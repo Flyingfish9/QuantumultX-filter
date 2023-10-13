@@ -9,6 +9,7 @@ var isp0 = "未知服务商";
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
+
 function city_check(para) {
   return para || city0;
 }
