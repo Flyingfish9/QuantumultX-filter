@@ -11,6 +11,7 @@
 # IP6-CIDR: 4309
 # USER-AGENT: 65
 # TOTAL: 130168
+# 原117563行 某色情网站会走此线路 IP-CIDR,0.0.0.0/32,ChinaMax
 HOST,cpro.baidustatic.com,ChinaMax
 HOST,analytics.strava.com,ChinaMax
 HOST,blzddist1-a.akamaihd.net,ChinaMax
@@ -117560,7 +117561,6 @@ USER-AGENT,Himalaya*,ChinaMax
 USER-AGENT,MicroMessenger*,ChinaMax
 USER-AGENT,WeChat*,ChinaMax
 USER-AGENT,iQIYI*,ChinaMax
-IP-CIDR,0.0.0.0/32,ChinaMax
 IP-CIDR,1.0.1.0/24,ChinaMax
 IP-CIDR,1.0.2.0/23,ChinaMax
 IP-CIDR,1.0.32.0/19,ChinaMax
